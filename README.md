@@ -1,7 +1,7 @@
 # Extremis – Role-Based Student Attendance Mobile Web App (PWA)
 
 **PBL Contribution**
-1. Bhavya Kumar Bhohra - 24EARAD031
+1. Bhavya Kumar Bohra - 24EARAD031
 2. Aditya Dahuja - 24EARAD005
 3. Chinmay Bhatt - 24EARAD034
 4. Gaurav Jangid - 24EARAD052
