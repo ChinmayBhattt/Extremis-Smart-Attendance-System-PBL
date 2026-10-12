@@ -4,7 +4,7 @@
 
 It replaces legacy desktop attendance tools with a GPS geofence-verified and live-camera selfie-verified attendance platform designed for students, faculty, and administrators.
 
----
+--- 
 
 ## 🌟 Key Features
 
